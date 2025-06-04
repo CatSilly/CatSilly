@@ -1,4 +1,4 @@
 - Most chill guys
 - Very silly in fighting with code
-- Text-based developer
+- Text-based game developer
 - Git Destroyer

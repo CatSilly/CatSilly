@@ -1,4 +1,5 @@
 - Most chill guys
-- Very silly in fighting with code
+- Very silly on fighting with code
 - Text-based game developer
 - Git Destroyer
+- Geometry Dash Player

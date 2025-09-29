@@ -1,5 +1,8 @@
-- Most chill guys
-- Very silly on fighting with code
-- Text-based game developer
-- Git Destroyer
-- Geometry Dash Player
+- A cat silly.
+
+- Have a worst Geometry Dash level ever:
+  ``Proxima by Sillycat32``.
+
+- Have _600_ times fail with **Buildozer Kivy**.
+
+- Very chill guy.

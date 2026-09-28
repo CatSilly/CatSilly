@@ -17,4 +17,4 @@ If you (want) to ask:
 
 > The guy who never being misled by AI optimization tutorial videos.
 
-> Documentation first, not tutorial videos first.
+> Read the document first, not watch tutorial videos first.

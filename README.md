@@ -13,5 +13,8 @@ If you (want) to ask:
 - Mineral water.
 
 ### Quotes
-> A guys who can using Python, Node.js, Deno, Go, C++ at the same project
+> The guy who can using Python, Node.js, Deno, Go, C++ at the same project.
 
+> The guy who never being misled by AI optimization tutorial videos.
+
+> Documentation first, not tutorial videos first.

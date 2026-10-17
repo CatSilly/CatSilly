@@ -2,7 +2,7 @@ Lu/Na (aka. CatSilly or Luna) is a indie developer, content creator, and the fou
 
 ### Main projects
 - [Lu/Na Standard](https://github.com/CatSilly/lu-na-standard): A personal rating system.
-- Konkk Kannto: a rhythm game, still in development.
+- Konkk Kannto: a rhythm game, still in testing popularity. 
 
 ### Tech Stack
 If you (want) to ask:
